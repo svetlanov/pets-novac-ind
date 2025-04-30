@@ -16,8 +16,8 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/your-username/mood-tracker-pets.git
-cd mood-tracker-pets
+git clone https://github.com/svetlanov/pets-novac-ind.git
+cd pets-novac-ind
 ```
 
 2. Установите зависимости:
@@ -77,7 +77,21 @@ npm run dev
   - отсортировать по возрасту (по возрастанию/убыванию)
   - найти питомца по имени
 
+Список питомцев
 
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/09bf9fa7-e939-472b-acb1-354911f6f4d8" />
+
+Поиск по имени
+
+<img width="1056" alt="image" src="https://github.com/user-attachments/assets/7f415eb4-cfbe-496e-8bf5-0b3bc352a7f0" />
+
+Фильтрация по типу
+
+<img width="1035" alt="Снимок экрана 2025-04-30 в 12 03 15" src="https://github.com/user-attachments/assets/1b61fd0b-bef8-45e7-ad07-294f66978024" />
+
+Сортировка по возрасту
+
+<img width="1025" alt="image" src="https://github.com/user-attachments/assets/8eb668ee-002f-4b49-a93c-c3493e5a74f8" />
 
 ---
 
@@ -87,7 +101,19 @@ npm run dev
   - имя, тип, порода, темперамент, возраст, ссылка на изображение
 - Пример изображения: `https://loremflickr.com/300/300/dog`
 
+
+
+<img width="778" alt="image" src="https://github.com/user-attachments/assets/9c9d72b4-d692-4d51-9aea-074d9d441788" />
+
+Превью изображения
+
+<img width="766" alt="image" src="https://github.com/user-attachments/assets/d334dc07-c559-4d28-8cc4-3749d56350f5" />
+
+<img width="768" alt="image" src="https://github.com/user-attachments/assets/0c201485-53b4-40fe-8eb2-1ebe3f5ca94d" />
+
 После нажатия на “Сохранить” ➝ всплывающее уведомление: **“Питомец успешно добавлен!”**
+
+<img width="1311" alt="image" src="https://github.com/user-attachments/assets/9324aa32-0d10-4aed-a5a1-0e85839a5d2c" />
 
 ---
 
@@ -97,12 +123,20 @@ npm run dev
 - Если питомец не найден в локальном состоянии — данные загружаются с сервера
 - Превью изображения автоматически обновляется при изменении ссылки
 
+<img width="789" alt="image" src="https://github.com/user-attachments/assets/e315c4c0-7f0e-4691-b10a-1c45d12e1cd9" />
+
+После нажатия на “Сохранить” ➝ всплывающее уведомление: **“Данные питомца успешно обновлены!”**
+<img width="1249" alt="image" src="https://github.com/user-attachments/assets/32e381e3-fb91-493c-869e-e249dc2822ca" />
+
 ---
 
 ### Удаление питомца
 
 - Нажатие на кнопку “Удалить” вызывает loader (`Удаление...`)
+  <img width="905" alt="image" src="https://github.com/user-attachments/assets/d24ca384-eb36-403a-8f10-75af318f737e" />
 - После удаления — отображается toast: **“Питомец успешно удалён!”**
+  <img width="1457" alt="image" src="https://github.com/user-attachments/assets/a20dfcfa-2a0d-4f07-89ac-5c15872901cf" />
+
 
 ---
 
@@ -112,12 +146,14 @@ npm run dev
 
 > **"Питомцы делают наш мир ярче.  
 Давай заботиться о них каждый день."**
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/c6783159-50cd-40b9-86d8-e5ecf38ac3b5" />
 
 ---
 
 ### Страница 404
 
 - Для всех несуществующих маршрутов отображается страница 404 с кнопкой возврата на главную
+<img width="1467" alt="image" src="https://github.com/user-attachments/assets/a99190c3-2531-45a5-9611-4b1ed5612997" />
 
 ---
 
